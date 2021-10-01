@@ -16,5 +16,11 @@
      "model": "Software as a Service(SaaS)",
      "defination": "https://www.salesforce.com/in/saas/",
      "examples": "https://joshfechter.com/software-service-examples/"
+    },
+     {
+     "id": "4",
+     "model": "PaaS",
+     "defination": "https://www.fingent.com/blog/cloud-service-models-saas-iaas-paas-choose-the-right-one-for-your-business/#PaaS",
+     "examples": "https://www.fingent.com/blog/cloud-service-models-saas-iaas-paas-choose-the-right-one-for-your-business/#PaaS"
     }
 ]

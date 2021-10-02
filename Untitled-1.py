@@ -23,4 +23,10 @@
      "defination": "https://www.fingent.com/blog/cloud-service-models-saas-iaas-paas-choose-the-right-one-for-your-business/#PaaS",
      "examples": "https://www.fingent.com/blog/cloud-service-models-saas-iaas-paas-choose-the-right-one-for-your-business/#PaaS"
     }
+    {
+     "id": "5",
+     "model": "SaaS",
+     "defination": "https://searchcloudcomputing.techtarget.com/definition/Software-as-a-Service",
+     "examples": "https://getnerdio.com/academy/10-popular-software-service-examples/"
+    }
 ]

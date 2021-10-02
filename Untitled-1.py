@@ -23,4 +23,10 @@
      "defination": "https://www.fingent.com/blog/cloud-service-models-saas-iaas-paas-choose-the-right-one-for-your-business/#PaaS",
      "examples": "https://www.fingent.com/blog/cloud-service-models-saas-iaas-paas-choose-the-right-one-for-your-business/#PaaS"
     }
+      {
+     "id": "5",
+     "model": "public cloud",
+     "defination": "https://www.cloudflare.com/learning/cloud/what-is-a-public-cloud/",
+     "examples": "https://www.quora.com/What-is-a-public-cloud-with-an-example"
+    }
 ]

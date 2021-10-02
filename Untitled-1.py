@@ -29,4 +29,10 @@
      "defination": "https://searchcloudcomputing.techtarget.com/definition/Software-as-a-Service",
      "examples": "https://getnerdio.com/academy/10-popular-software-service-examples/"
     }
+    {
+     "id": "6",
+     "model": "SaaS",
+     "defination": "https://en.wikipedia.org/wiki/Software_as_a_service",
+     "examples": "https://getnerdio.com/academy/10-popular-software-service-examples/"
+    }
 ]

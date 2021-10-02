@@ -1,2 +1,3 @@
 # cloud123
-cloud123
+A beginner friendly hactoberfest project
+

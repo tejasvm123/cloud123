@@ -17,16 +17,26 @@
      "defination": "https://www.salesforce.com/in/saas/",
      "examples": "https://joshfechter.com/software-service-examples/"
     },
-     {
+    {
      "id": "4",
      "model": "PaaS",
      "defination": "https://www.fingent.com/blog/cloud-service-models-saas-iaas-paas-choose-the-right-one-for-your-business/#PaaS",
      "examples": "https://www.fingent.com/blog/cloud-service-models-saas-iaas-paas-choose-the-right-one-for-your-business/#PaaS"
-    }
-     {
+    },
+
+    {
      "id": "7",
      "model": "Amazon Elastic compute cloud",
      "defination": "https://www.google.com/search?q=definition+of+amazon+elastic+compute+cloud&rlz=1C1FHFK_enIN959IN959&oq=defination+of+amazon+elastic+c&aqs=chrome.2.69i57j33i22i29i30l9.38565j0j7&sourceid=chrome&ie=UTF-8",
      "examples": "https://www.google.com/search?q=example+of+amazon+elastic+compute+cloud&rlz=1C1FHFK_enIN959IN959&oq=example+of+amazon+elastic+compute+cloud&aqs=chrome..69i57.20440j0j4&sourceid=chrome&ie=UTF-8"
+    }, 
+
+    {
+     "id": "5",
+     "model": "public cloud",
+     "defination": "https://www.cloudflare.com/learning/cloud/what-is-a-public-cloud/",
+     "examples": "https://www.quora.com/What-is-a-public-cloud-with-an-example"
+
     }
+  
 ]

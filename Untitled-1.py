@@ -39,4 +39,11 @@
 
     }
   
+    {
+     "id": "7",
+     "model": "AWS",
+     "defination": "https://www.cloudflare.com/learning/cloud/what-is-a-public-cloud/",
+     "examples": "https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=categories%23compute&trk=ps_a134p000006gEbeAAE&trkCampaign=acq_paid_search_brand&sc_channel=PS&sc_campaign=acquisition_IN&sc_publisher=Google&sc_category=Cloud%20Computing&sc_country=IN&sc_geo=APAC&sc_outcome=acq&sc_detail=%2Bamazon%20%2Bcloud%20%2Bservices&sc_content=Cloud%20Hosting_bmm&sc_matchtype=b&sc_segment=476942607286&sc_medium=ACQ-P|PS-GO|Brand|Desktop|SU|Cloud%20Computing|Solution|IN|EN|Text&s_kwcid=AL!4422!3!476942607286!b!!g!!%2Bamazon%20%2Bcloud%20%2Bservices&ef_id=CjwKCAjwqeWKBhBFEiwABo_XBqDnyaAaDhiXydbiEegOyr_uRQel9X1NaGOorIYqs0m72gXNmMTGlxoCxqwQAvD_BwE:G:s&s_kwcid=AL!4422!3!476942607286!b!!g!!%2Bamazon%20%2Bcloud%20%2Bservices"
+
+    }
 ]
